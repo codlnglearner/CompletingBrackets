@@ -1,0 +1,2 @@
+# CompletingBrackets
+Given a sequence A that consists of characters '(', ')', '[', ']', we say that A is valid if: 1. If there is a '(' followed by a ')', or a '[' followed by a ']', we can delete them together from the sequence. Repeat this procedure until there is nothing to delete. 2. Finally, if the remaining sequence is empty, we say the original sequence is valid; otherwise, the original sequence is invalid.
